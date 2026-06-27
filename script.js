@@ -120,7 +120,7 @@ const HEADER_HEIGHT = 72;
     alert(
       'Thank you! Please contact JOG Morocco by WhatsApp or email.\n\n' +
       '💬 WhatsApp: +212 773 737 000\n' +
-      '✉ Email: Jogmorocco@gmail.com\n\n' +
+      '✉ Email: contact@jogmorocco.com\n\n' +
       'We look forward to adventuring with you! 🧭'
     );
 
